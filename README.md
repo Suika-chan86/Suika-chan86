@@ -43,6 +43,17 @@
 
 <br/><br/>  
 
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/Suika-chan86/Suika-chan86/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/Suika-chan86/Suika-chan86/output/github-snake.svg">
+  <img alt="github contribution grid snake animation"
+       src="https://raw.githubusercontent.com/Suika-chan86/Suika-chan86/output/github-snake.svg">
+</picture>
+
+<br/><br/> 
+
 ## 📊 GitHub统计
 
 <div align="center">
@@ -56,14 +67,3 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suika-chan86&theme=dark&hide_border=true" alt="连续贡献" />
 </div>  
-
-<br/><br/>  
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/Suika-chan86/Suika-chan86/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/Suika-chan86/Suika-chan86/output/github-snake.svg">
-  <img alt="github contribution grid snake animation"
-       src="https://raw.githubusercontent.com/Suika-chan86/Suika-chan86/output/github-snake.svg">
-</picture>
