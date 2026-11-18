@@ -8,7 +8,7 @@
 
 在这个抽象的时代苦逼装睡。东方众、滚人、板绘苦手。
 
-📍 Earth | 📧 [Ljqbwlb2435@outlook.com](mailto:Ljqbwlb2435@outlook.com)
+🌍 Earth | Email: [Ljqbwlb2435@outlook.com](mailto:Ljqbwlb2435@outlook.com)
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Suika-chan86&left_color=green&right_color=red" alt="Visitor Badge" />
