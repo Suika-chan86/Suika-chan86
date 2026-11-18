@@ -58,3 +58,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code技能" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adobephotoshop/adobephotoshop-original.svg" alt="Adobe Photoshop技能" width="40" height="40"/>
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/Suika-chan86/Suika-chan86/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/Suika-chan86/Suika-chan86/output/github-snake.svg">
+  <img alt="github contribution grid snake animation"
+       src="https://raw.githubusercontent.com/Suika-chan86/Suika-chan86/output/github-snake.svg">
+</picture>
