@@ -36,9 +36,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git技能" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker技能" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux技能" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellijidea/intellijidea-original.svg" alt="IntelliJ IDEA技能" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/Suika-chan86/Suika-chan86/main/assets/intellij-idea.svg" alt="IntelliJ IDEA技能" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code技能" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adobephotoshop/adobephotoshop-original.svg" alt="Adobe Photoshop技能" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/Suika-chan86/Suika-chan86/main/assets/adobe-photoshop.svg" alt="Adobe Photoshop技能" width="40" height="40"/>
 </div>
 
 <br/><br/>  
