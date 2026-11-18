@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Suika-chan86/Suika-chan86/main/assets/avatar.jpg" alt="伊吹大盗いぶき" width="200" height="200" style="border-radius: 50%;" />
-</div>
-
 # Hi 👋, I'm 伊吹大盗いぶき
 ## 一般通过苦逼CS牲。
 
