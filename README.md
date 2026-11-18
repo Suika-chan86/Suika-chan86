@@ -18,7 +18,7 @@
 
 <div align="center">
 
-<a href="https://space.bilibili.com/490321986" target="blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/bilibili.svg" alt="bilibili" height="30" width="30" fill="#00A1D6" /> B站</a> • <a href="https://github.com/https://github.com/Suika-chan86" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="30" /> GitHub</a>
+<a href="https://space.bilibili.com/490321986" target="blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/bilibili.svg" alt="bilibili" height="30" width="30" fill="#00A1D6" /></a> • <a href="https://github.com/https://github.com/Suika-chan86" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="30" /></a>
 
 </div>  
 
