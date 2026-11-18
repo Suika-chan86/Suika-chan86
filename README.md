@@ -22,24 +22,6 @@
 
 </div>  
 
-<br/><br/>  
-
-## 📊 GitHub统计
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Suika-chan86&show_icons=true&theme=dark&hide_border=true" alt="GitHub统计" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suika-chan86&layout=compact&theme=dark&hide_border=true" alt="热门语言" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suika-chan86&theme=dark&hide_border=true" alt="连续贡献" />
-</div>  
-
-<br/><br/>  
-
 ## 🛠️ 技能 & 工具
 
 <div align="center">
@@ -58,6 +40,24 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code技能" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adobephotoshop/adobephotoshop-original.svg" alt="Adobe Photoshop技能" width="40" height="40"/>
 </div>
+
+<br/><br/>  
+
+## 📊 GitHub统计
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Suika-chan86&show_icons=true&theme=dark&hide_border=true" alt="GitHub统计" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suika-chan86&layout=compact&theme=dark&hide_border=true" alt="热门语言" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suika-chan86&theme=dark&hide_border=true" alt="连续贡献" />
+</div>  
+
+<br/><br/>  
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
